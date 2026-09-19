@@ -1,0 +1,12 @@
+dUgUrAg
+
+
+mngr666553
+
+
+1. Navigate to https://demo.guru99.com/V4/index.php 
+
+and write below test cases
+
+a. Validate Login Functionality 
+b. Validate creation of new Customer 
